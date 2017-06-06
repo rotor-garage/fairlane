@@ -5,6 +5,8 @@ The Fairlaine is an ```R``` designed 215mm motor to motor 5" racing and freestyl
 
 >Presence of this frame is said to warm a thousand motors and without effort fascinate the soul and want to go faster. The cheerful and playful potential animates all that are fortunate enough to encounter footage of a flight. 
 
+<img src="https://github.com/rotorgarage/fairlane/blob/master/frame-picture.png?raw=true"/>
+
 Specification:
 * 215mm mtm "stretch" frame
 * Nominal 1.25:1 ratio (L:W)
